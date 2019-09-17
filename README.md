@@ -1,3 +1,1 @@
-# my-first-repobetter README, really
-
-some edit in this
+hello world, time for git
